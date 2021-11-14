@@ -13,4 +13,4 @@ This is Dice roller app this is the 3rd app i have made so far in Android Studio
    -How images and icons are added to the workspace. \
    -Debugging and printing log messages.. \
    -Using version controls. \
-   -and much more basics that will help me on future projects...  \
+   -and much more basics that will help me on future projects...  
